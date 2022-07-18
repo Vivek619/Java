@@ -7,7 +7,7 @@ public class apidata {
 				+ "\"random\": 12,\r\n"
 				+ "\"random_float\": 4.56,\r\n"
 				+ "\"enum\": \"generator\",\r\n"
-				+ "\"firstname\": \"Christy\",\r\n"
+				+ "\"firstname\": \"Christina\",\r\n"
 				+ "\"courses\":[\r\n"
 				+ "{\r\n"
 				+ "\"name\": \"Java\",\r\n"

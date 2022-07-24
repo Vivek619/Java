@@ -1,8 +1,8 @@
 package JavaConcept;
 
 public class StaticAndNonStatic {
-	int global1 = 5; // non static variable
-	static int global2 = 6; // static variable
+	int global1 = 5; // non static variable -- global variable
+	static int global2 = 6; // static variable -- global variable
 	//static method
 	public static int StaticSum(int a, int b) {
 		int sum1 = a + b;
@@ -10,7 +10,7 @@ public class StaticAndNonStatic {
 	}
 	
 	public int NonStaticSum(int a, int b) {
-		int sum2 = a + b;
+		int sum2 = a + b; //local variable
 		return sum2;
 	}
 	

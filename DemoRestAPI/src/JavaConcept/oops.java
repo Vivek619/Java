@@ -4,7 +4,7 @@ public class oops {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		/* this is multi
+		/* this is multi-line
 		 * line comment
 		 */
      int a =0, A=34;
